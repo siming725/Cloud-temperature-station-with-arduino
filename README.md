@@ -1,2 +1,2 @@
 # Cloud-temperature-station-with-arduino
-a student's project which set up a station by hardware arduino ESP8266 and DHT11 to measure temperature and humidity those can be read in google map
+A student's project which set up a station by hardware arduino ESP8266 and DHT11 to measure temperature and humidity those can be read in google map. The codes are written in MicroPython, a software implementation of the Python 3, and codes must be read and edited in IDE uPyCraft which can be download in http://docs.dfrobot.com/upycraft/. By using the API of cloud plattform Thingspeak data can be upload in cloud and then called by google map.
